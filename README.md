@@ -1,2 +1,2 @@
-# vis
-Visualizations
+# clinical trials
+Clinical Trials Dashboard
